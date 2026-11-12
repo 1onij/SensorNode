@@ -1,0 +1,27 @@
+# dot files
+/.vscode/launch.json
+/.settings
+/.eide/log
+/.eide.usr.ctx.json
+
+# project out
+/build
+/bin
+/obj
+/out
+
+# eide template
+*.ept
+*.eide-template
+
+# Keil 编译产物和个人窗口布局
+/Objects
+/Listings
+*.uvguix.*
+
+# EIDE 自动下载的芯片支持包和 CMSIS 头文件（打开工程时按提示安装即可）
+/.pack
+/.cmsis
+
+# 日志
+*.log
